@@ -1,6 +1,4 @@
-# PRODIGY_CS_03
-
-## Password Strength Assessment Tool
+# Password Strength Assessment Tool
 
 This project involves developing a tool that evaluates password strength based on specific criteria. It provides real-time feedback to users, encouraging the creation of stronger passwords.
 
